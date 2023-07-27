@@ -1,6 +1,5 @@
 # Link Shortener
-
-![Link Shortener](/assets/link_shortener.png)
+## Simple URL Shortening service
 
 Link Shortener is a simple URL shortening service that allows users to create short and memorable aliases for long URLs. This project was developed by [PyDevNik](https://github.com/PyDevNik) as part of a personal learning project. The main goal of this project is to provide a straightforward and easy-to-use URL shortening solution.
 
